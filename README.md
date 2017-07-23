@@ -1,4 +1,4 @@
-![alt text](../blob/master/Assets/Resources/Bitmaps/UI/text.png "###Corp's Locker")
+![alt text](../master/Assets/Resources/Bitmaps/UI/text.png "###Corp's Locker")
 
 A rogue like game based upon a procedural world. It is populated with many dungeons on an island.
 
@@ -35,4 +35,4 @@ This project is licensed under the GNU-3 License - see the [LICENSE.md](LICENSE.
 
 ## Acknowledgments
 
-* Thanks to lib-noise for there library of noise utils.
+* Thanks to lib-noise for there library of noise utils. [LibNoise](https://github.com/ricardojmendez/LibNoise.Unity)
