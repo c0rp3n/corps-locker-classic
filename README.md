@@ -1,4 +1,4 @@
-![alt text](..\Assets\Resources\Bitmaps\UI\text.png "###Corp's Locker")
+![alt text](../blob/master/Assets/Resources/Bitmaps/UI/text.png "###Corp's Locker")
 
 A rogue like game based upon a procedural world. It is populated with many dungeons on an island.
 
