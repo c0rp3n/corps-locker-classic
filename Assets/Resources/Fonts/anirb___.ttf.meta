@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8d1d1131539eebb4ba230ba2ae9702dc
+timeCreated: 1481487437
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Aniron
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 79987993aa78be64690c8ad74fbb8008, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
