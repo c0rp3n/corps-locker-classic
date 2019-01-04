@@ -1,7 +1,9 @@
 ![alt text](../master/Assets/Resources/Bitmaps/UI/text.png "###Corp's Locker")
 
-A rogue like game based upon a procedural world. It is populated with many dungeons on an island.
+
 This was my original design for the game done for my A-Level project I am currently looking into making a newer more optimised as well as dynamic version of this for more see [here](https://github.com/c0rp3n/corps-locker).
+
+A rogue like game based upon a procedural world. It is populated with many dungeons on an island.
 
 ## Getting Started
 
